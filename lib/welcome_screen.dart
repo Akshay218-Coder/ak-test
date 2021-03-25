@@ -44,8 +44,6 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                   onPressed: () {
                     //Go to login screen.
 
-                    //TEst commit
-
                   },
                   minWidth: 200.0,
                   height: 42.0,
